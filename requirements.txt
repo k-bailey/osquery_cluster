@@ -1,0 +1,6 @@
+argparse
+pandas
+numpy
+sklearn
+matplotlib
+plotly
