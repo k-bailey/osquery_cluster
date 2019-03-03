@@ -1,7 +1,7 @@
 # osquery_cluster_data
 
 
-This repo holds scripts used to cluster hosts together based on osquery data. **It is a work in progress.**
+This code clusters hosts together based on osquery data. **It is a work in progress.**
 The first project is an attempt to cluster hosts together based on installed packages, crontab entries and installed kernel modules using kmeans. Ideally this can be expanded to take data from many osquery tables and correlate it into a host profile that can be used to cluster hosts and identify outliers.
 
 ## Basic Usage
